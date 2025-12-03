@@ -1,2 +1,6 @@
 # web-scraping-tool-
 available files: .py, .exe
+
+Hello World! I'm Davide, a junior programmer, quite excited to be part of this beautiful community, this is my first project. This idea came to me from my passion for the marvelous adventures of Doctor Who. I was just looking for old comicbooks about the Doctor and I came across this website that was a bit clunky to navigate, so I thought: I could just automate an organized download of all the comicbooks and create a csv and a pdf files to keep track of the infos and reading order of the comics themselves. 
+
+This is the structure: the automation will create a main download directory into the project folder itself, the console will prompt you to choose wich doctor comics you would like to download, fetch for all the titles of the comicbooks through the website css tags, create subdirectories that will be named after the comics titles, download all the elements with img tag, and put the downloaded images in the right subdirectory, later on a csv and a pdf files will be created to keep track of all the necessary informations about the comics, and will be in reading order, from first to last. Please, enjoy and feel free to message me about anything you would have done differently to help me grow as a programmer. Cheers.
